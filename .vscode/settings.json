@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/fe77e8ad-e9cc-4503-a978-35562177ed8c/resourceGroups/app-resources/providers/Microsoft.Web/sites/shanecoll",
+    "appService.deploySubpath": ""
+}
